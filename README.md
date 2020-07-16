@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="left">
+ <abc>
+  <br>👋 Hi, I'm Kartik Tyagi.</br>
+  <br> A Super Simple Backend Web Developer. </br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+ </abc>
+</h3> 
 
-<!--
-**genialkartik/genialkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-brightgreen) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud%20Deployement-%3A%5E-informational)
 
-Here are some ideas to get you started:
+- :telescope: I'm currently exploring React & React-Redux :alien:
+- :hourglass_flowing_sand: Experimenting with Axios, SPA and MongoDB
+- :microscope: Always ready to collaborate in Code Review, Build Together, and contribute to Open-Source.
+- :man_technologist: Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :zap: Fun fact: I love to attend Meetups and participate in Hackathons for learning & Building Network!
+- 📫 Also visit: [kartiktyagi.me](https://kartiktyagi.me/)
+- :mailbox: Connect with Me on: <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-geniakartik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genial-kartik/)](https://www.linkedin.com/in/genial-kartik/) [![Twitter Badge](https://img.shields.io/badge/-@genialkartik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/genialkartik)](https://twitter.com/genialkartik) [![Facebook Badge](https://img.shields.io/badge/-@genialkartik-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/genialkartik)](https://www.facebook.com/genialkartik) [![Instagram Badge](https://img.shields.io/badge/-@genialkartik-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/genialkartik/)](https://www.instagram.com/genialkartik/)
