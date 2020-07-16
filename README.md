@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Kartik Tyagi.</br>
   <br> A Super Simple Backend Web Developer. </br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" />
+    <img src="https://raw.githubusercontent.com/genialkartik/genialkartik/master/animation_500_kcob5row.gif" alt="Coder GIF" width="500" height="400" />
  </abc>
 </h3> 
 
