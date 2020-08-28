@@ -1,6 +1,6 @@
 <h3 align="left">
   <br>👋 Hi, I'm Kartik Tyagi.</br>
-  <br> A Super Simple Backend Web Developer
+  <br> Backend Web Developer
 </h3> 
 
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-brightgreen) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud%20Deployement-%3A%5E-informational)
