@@ -1,14 +1,14 @@
 <h3 align="left">
   <br>👋 Hi, I'm Kartik Tyagi.</br>
-  <br> Backend Web Developer
+  <br> Full Stack Developer
 </h3> 
 
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-brightgreen) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud%20Deployement-%3A%5E-informational)
 
-- :telescope: I'm currently exploring React & React-Redux :alien:
-- :hourglass_flowing_sand: Experimenting with Axios, SPA and MongoDB
+- :telescope: I'm currently exploring ReactJS & AWS :alien:
+- :hourglass_flowing_sand: Focusing in Advance JavaScript
 - :microscope: Always ready to collaborate in Code Review, Build Together, and contribute to Open-Source.
-- :man_technologist: Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
+- :man_technologist: Former Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups and participate in Hackathons for learning & Building Network!
 - 📫 Also visit: [kartiktyagi.codes](https://kartiktyagi.codes/)
