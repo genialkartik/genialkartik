@@ -11,7 +11,7 @@
 - :man_technologist: Former Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups and participate in Hackathons for learning & Building Network!
-- Also visit: [kartiktyagi.codes](https://kartiktyagi.codes/)
+- Visit: [kartiktyagi.codes](https://kartiktyagi.codes/)
 - Creative One: [genialkartik.tech](https://genialkartik.tech/)
 - :mailbox: Connect with Me on: <br>
 
