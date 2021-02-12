@@ -5,7 +5,7 @@
 
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-brightgreen) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud%20Deployement-%3A%5E-informational)
 
-- :telescope: I'm currently exploring ReactJS & AWS :alien:
+- :telescope: I'm currently exploring NestJS & TypeScript :alien:
 - :hourglass_flowing_sand: Focusing in Advance JavaScript
 - :microscope: Always ready to collaborate in Code Review, Build Together, and contribute to Open-Source.
 - :man_technologist: Former Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
