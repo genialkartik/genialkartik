@@ -9,7 +9,7 @@
 - :hourglass_flowing_sand: Experimenting with AWS
 - :microscope: Always ready to collaborate in Code Review, Build Together, and contribute to Open-Source.
 - :man_technologist: Former Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :dart: Life Hack: "Explore and Explode with knowledge" 
 - :zap: Fun fact: I love to attend Meetups and participate in Hackathons for learning & Building Network!
 - Visit: [kartiktyagi.codes](https://kartiktyagi.codes/)
 - Creative One: [genialkartik.tech](https://genialkartik.tech/)
