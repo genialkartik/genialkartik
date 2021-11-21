@@ -6,7 +6,7 @@
 #### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-brightgreen) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud%20Deployement-%3A%5E-informational)
 
 - :telescope: I'm currently exploring TypeScript & NestJS :alien:
-- :hourglass_flowing_sand: Experimenting with AWS
+- :hourglass_flowing_sand: Experimenting with AWS & Postgres
 - :microscope: Always ready to collaborate in Code Review, Build Together, and contribute to Open-Source.
 - :man_technologist: Former Backend Web Dev Intern at Ethical Learner Pvt. Ltd.
 - :dart: Life Hack: "Explore and Explode with knowledge" 
