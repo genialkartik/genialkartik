@@ -3,7 +3,6 @@
 ### Full Stack Developer
 ### [kartiktyagi.in](https://kartiktyagi.in/)
 
-#### ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-brightgreen) ![](https://img.shields.io/badge/NodeJS-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Backend-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud%20Deployement-%3A%5E-informational)
 
 - :telescope: I'm currently exploring TypeScript & NestJS :alien:
 - :hourglass_flowing_sand: Experimenting with AWS & Postgres
