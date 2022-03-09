@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Kartik Tyagi.
+## 👋 Hi, I'm Kartik Tyagi
 ### Full Stack Developer
 ### [kartiktyagi.in](https://kartiktyagi.in/)
 
